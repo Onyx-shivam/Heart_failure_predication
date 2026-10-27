@@ -154,6 +154,4 @@ Render's free tier sleeps after inactivity, so the first request after a break c
 - Add input validation ranges on the server
 - Add tests for the `/predict` endpoint
 
-## License
 
-Add a license of your choice, for example MIT, before publishing.
